@@ -1,0 +1,6 @@
+{
+  "name": "PTS Rwanda HR Portal",
+  "description": "An internal HR management system for PTS Rwanda, handling employee data, payroll, leave, and performance.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
